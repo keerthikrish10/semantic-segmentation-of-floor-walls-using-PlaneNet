@@ -3,7 +3,7 @@
 
 ## 📌 Overview
 This project is inspired from ofiicial PlaneNet model architecture.Used PlaneNet architecture ,basically a  encoder-decoder CNN-DNN model with RESNET 101  as a base model to build and train the model from scratch.
-This project implements **semantic segmentation for floor and wall detection** using **PlaneNet architecture with RESNET 101 as backbone**. It takes indoor images as input and predicts segmentation masks, enabling applications in **indoor mapping, AR/VR, and smart home automation,Robot indoor Navigation**.
+This project implements **semantic segmentation for floor and wall detection** using **PlaneNet architecture with RESNET 101 as backbone**. It takes indoor images(uploaded or from live cam) as input and predicts segmentation masks, enabling applications in **indoor mapping, AR/VR, and smart home automation,Robot indoor Navigation**.
 
 ## ✨ Features
 - **Semantic Segmentation:** Predicts masks for floor, wall, and other surfaces.
