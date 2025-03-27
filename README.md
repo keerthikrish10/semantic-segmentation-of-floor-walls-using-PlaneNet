@@ -80,6 +80,11 @@ python train.py --epochs 50 --batch_size 16 --dataset_path /path/to/dataset/
 1.Use PYtorch GPU accelerated with CUDA 
 2.transfer learning with complex models like EfficientNet for performance 
 3. Deploying in AWS/GCP
+
+## obtained performance scores 
+training accuracy : 83%
+testing:
+IoU: 0.4987, Accuracy: 0.7578, Precision: 0.4987, Recall: 1.0000, F1 Score: 0.6655
 ## 📜 License
 This project is **MIT licensed**. Feel free to use and improve it!
 
