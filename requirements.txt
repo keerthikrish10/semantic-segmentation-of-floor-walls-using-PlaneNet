@@ -1,0 +1,10 @@
+numpy
+scikit-learn
+matplotlib
+streamlit
+opencv-python
+tensorflow
+Pillow
+pyngrok
+os-sys
+glob2
