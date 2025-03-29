@@ -64,7 +64,7 @@ python train.py --epochs 50 --batch_size 16 --dataset_path /path/to/dataset/
 ## 📷 Example Results
 | **Input Image** | **Predicted Segmentation** | **Ground Truth (Optional)** |
 |---------------|----------------------|--------------------|
-| ![Input]() | ![Predicted](https://your_image_link.com) | ![Ground Truth](https://your_image_link.com) |
+| ![Input](https://github.com/keerthikrish10/semantic-segmentation-of-floor-walls-using-PlaneNet/blob/main/streamlitUI-UX.png) | ![Predicted](https://your_image_link.com) | ![Ground Truth](https://your_image_link.com) |
 
 ## 🛠 Technologies Used
 - **TensorFlow/Keras** - Model training and inference
