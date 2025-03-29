@@ -64,7 +64,7 @@ python train.py --epochs 50 --batch_size 16 --dataset_path /path/to/dataset/
 ## 📷 Example Results
 | **Input Image** | **Predicted Segmentation** | 
 |---------------|----------------------|--------------------|
-| ![Input](https://github.com/keerthikrish10/semantic-segmentation-of-floor-walls-using-PlaneNet/blob/main/streamlitUI-UX.png) | ![Predicted](https://github.com/keerthikrish10/semantic-segmentation-of-floor-walls-using-PlaneNet/blob/main/streamprediction.png) |
+| ![Input](https://github.com/keerthikrish10/semantic-segmentation-of-floor-walls-using-PlaneNet/blob/main/streamlitUI-UX.png) | ![Predicted](https://github.com/keerthikrish10/semantic-segmentation-of-floor-walls-using-PlaneNet/blob/main/streamlitprediction.png)|
 
 ## 🛠 Technologies Used
 - **TensorFlow/Keras** - Model training and inference
