@@ -62,9 +62,9 @@ python train.py --epochs 50 --batch_size 16 --dataset_path /path/to/dataset/
 | **F1 Score** | Harmonic mean of Precision and Recall. |
 
 ## 📷 Example Results
-| **Input Image** | **Predicted Segmentation** | **Ground Truth (Optional)** |
+| **Input Image** | **Predicted Segmentation** | 
 |---------------|----------------------|--------------------|
-| ![Input](https://github.com/keerthikrish10/semantic-segmentation-of-floor-walls-using-PlaneNet/blob/main/streamlitUI-UX.png) | ![Predicted](https://your_image_link.com) | ![Ground Truth](https://your_image_link.com) |
+| ![Input](https://github.com/keerthikrish10/semantic-segmentation-of-floor-walls-using-PlaneNet/blob/main/streamlitUI-UX.png) | ![Predicted](https://github.com/keerthikrish10/semantic-segmentation-of-floor-walls-using-PlaneNet/blob/main/streamprediction.png) |
 
 ## 🛠 Technologies Used
 - **TensorFlow/Keras** - Model training and inference
