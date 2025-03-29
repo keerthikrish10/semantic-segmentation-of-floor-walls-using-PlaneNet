@@ -82,9 +82,13 @@ python train.py --epochs 50 --batch_size 16 --dataset_path /path/to/dataset/
 3. Deploying in AWS/GCP
 
 ## obtained performance scores 
-training accuracy : 83%
+training accuracy : 90% ; validation accuracy : 89% ; loss = 0.2
 testing:
-IoU: 0.4987, Accuracy: 0.7578, Precision: 0.4987, Recall: 1.0000, F1 Score: 0.6655
+🔹 Accuracy: 0.8807
+🔹 Precision: 0.6799
+🔹 Recall: 0.9558
+🔹 F1-score: 0.7946
+🔹 IoU: 0.6592
 ## 📜 License
 This project is **MIT licensed**. Feel free to use and improve it!
 
