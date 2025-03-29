@@ -7,7 +7,7 @@ This project implements **semantic segmentation for floor and wall detection** u
 
 ## ✨ Features
 - **Semantic Segmentation:** Predicts masks for floor, wall, and other surfaces.
-- **Pre-trained Model:** Uses RESNET 101 as backbone with PlaneNet architecture  for robust segmentation.
+- ** Model built from scratch:** Uses RESNET 101 as backbone with PlaneNet architecture  for robust segmentation.
 - **Performance Metrics:** Computes **Accuracy, IoU, Precision, Recall, and F1 Score**.
 - **Flexible Input:** Works **with or without ground truth masks**.
 - **Visualization:** Displays segmented output alongside original images.
@@ -64,7 +64,7 @@ python train.py --epochs 50 --batch_size 16 --dataset_path /path/to/dataset/
 ## 📷 Example Results
 | **Input Image** | **Predicted Segmentation** | **Ground Truth (Optional)** |
 |---------------|----------------------|--------------------|
-| ![Input](https://your_image_link.com) | ![Predicted](https://your_image_link.com) | ![Ground Truth](https://your_image_link.com) |
+| ![Input]("C:\Users\KEERTHI KRISHANA\Downloads\raw_image\frame_169.png") | ![Predicted](https://your_image_link.com) | ![Ground Truth](https://your_image_link.com) |
 
 ## 🛠 Technologies Used
 - **TensorFlow/Keras** - Model training and inference
@@ -78,7 +78,7 @@ python train.py --epochs 50 --batch_size 16 --dataset_path /path/to/dataset/
 
 ##Further optimizations needed
 1.Use PYtorch GPU accelerated with CUDA 
-2.transfer learning with complex models like EfficientNet for performance 
+2.transfer learning with complex models mask RCNN OR Monocular Depth Estimation Models (MiDaS, DPT)
 3. Deploying in AWS/GCP
 
 ## obtained performance scores 
